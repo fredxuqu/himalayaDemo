@@ -44,7 +44,7 @@
 		<ognl.version>3.1.6</ognl.version>
 		<kafka.client.version>2.0.1</kafka.client.version>
 		
-		<dubbo.version>2.5.4-SNAPSHOT</dubbo.version>
+		<dubbo.version>2.6.9</dubbo.version>
 
 		<!-- log related properties -->
 		<log.root.level>info</log.root.level>
