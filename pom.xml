@@ -36,7 +36,7 @@
 		<mysql.connector.version>5.1.40</mysql.connector.version>
 		<jackson.version>2.5.5</jackson.version>
 		<rocketmq.client.version>3.2.6</rocketmq.client.version>
-		<cxfapi.version>2.5.0</cxfapi.version>
+		<cxfapi.version>2.5.10</cxfapi.version>
 		<servlet.version>2.5</servlet.version>
 		<spring.boot.version>1.4.6.RELEASE</spring.boot.version>
 		<hibernate.version>5.0.4.Final</hibernate.version>
